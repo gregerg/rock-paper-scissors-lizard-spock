@@ -1,0 +1,19 @@
+{
+  "name": "rock-paper-scissors-lizard-spock",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissors game with Lizard and Spock options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gregerg/rock-paper-scissors-lizard-spock.git"
+  },
+  "author": "Greg Ferrell <gregerg@gmail.com> (http://gregerg.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregerg/rock-paper-scissors-lizard-spock/issues"
+  },
+  "homepage": "https://github.com/gregerg/rock-paper-scissors-lizard-spock"
+}
